@@ -1,0 +1,12 @@
+#ignore files
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/processed/TCGA-GDC/rna_seq/tcga_lusc_PrimaryTumor_FPKM.txt.gz
+data/processed/TCGA-GDC/rna_seq/tcga_luad_PrimaryTumor_FPKM.txt.gz
+
+
+# ignore folders
+data/raw

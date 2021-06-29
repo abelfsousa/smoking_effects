@@ -1,0 +1,523 @@
+sample	tcga_cohort	gender	date_of_birth	year_of_diagnosis	age_at_diagnosis	race	ethnicity	tissue_source_site	pathologic_stage	tobacco_smoking_history	stopped_smoking_year	year_of_tobacco_smoking_onset	histological_type	number_pack_years_smoked	smoker
+TCGA.05.4244	LUAD	MALE	1939	2009	70	NA	NA	05	Stage IV	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	38	YES
+TCGA.05.4245	LUAD	MALE	1928	2009	81	NA	NA	05	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	32	YES
+TCGA.05.4249	LUAD	MALE	1940	2007	67	NA	NA	05	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	52	YES
+TCGA.05.4250	LUAD	FEMALE	1928	2007	79	NA	NA	05	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	47	YES
+TCGA.05.4382	LUAD	MALE	1941	2009	68	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	62	YES
+TCGA.05.4384	LUAD	MALE	1943	2009	66	NA	NA	05	Stage IIIA	Current reformed smoker for > 15 years	1987	1963	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.05.4389	LUAD	MALE	1935	2005	70	NA	NA	05	Stage IA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	43	YES
+TCGA.05.4390	LUAD	FEMALE	1947	2005	58	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	1996	1966	Lung Adenocarcinoma Mixed Subtype	15	YES
+TCGA.05.4395	LUAD	MALE	1930	2006	76	NA	NA	05	Stage IIIB	Current reformed smoker for > 15 years	1983	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.05.4396	LUAD	MALE	1930	2006	76	NA	NA	05	Stage IIIB	Current reformed smoker for > 15 years	1984	1947	Lung Adenocarcinoma Mixed Subtype	19	YES
+TCGA.05.4397	LUAD	MALE	1941	2006	65	NA	NA	05	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	45	YES
+TCGA.05.4398	LUAD	FEMALE	1959	2006	47	NA	NA	05	Stage IIIB	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	72	YES
+TCGA.05.4402	LUAD	FEMALE	1950	2007	57	NA	NA	05	Stage IV	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.05.4403	LUAD	MALE	1930	2006	76	NA	NA	05	Stage IB	Current reformed smoker for > 15 years	1975	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.05.4405	LUAD	FEMALE	1932	2006	74	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	1994	1951	Lung Adenocarcinoma Mixed Subtype	65	YES
+TCGA.05.4410	LUAD	MALE	1945	2007	62	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	2007	1958	Lung Adenocarcinoma Mixed Subtype	98	YES
+TCGA.05.4415	LUAD	MALE	1951	2008	57	NA	NA	05	Stage IIIB	Current reformed smoker for < or = 15 years	2007	1997	Lung Adenocarcinoma Mixed Subtype	29	YES
+TCGA.05.4417	LUAD	FEMALE	1957	2008	51	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	2008	1971	Lung Adenocarcinoma Mixed Subtype	56	YES
+TCGA.05.4418	LUAD	MALE	1939	2008	69	NA	NA	05	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	25	YES
+TCGA.05.4420	LUAD	MALE	1967	2008	41	NA	NA	05	Stage IB	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	38	YES
+TCGA.05.4422	LUAD	MALE	1940	2008	68	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	147	YES
+TCGA.05.4424	LUAD	MALE	1938	2008	70	NA	NA	05	Stage IIB	Current reformed smoker for < or = 15 years	2007	1957	Lung Adenocarcinoma Mixed Subtype	50	YES
+TCGA.05.4425	LUAD	FEMALE	1938	2008	70	NA	NA	05	Stage IV	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	28	YES
+TCGA.05.4426	LUAD	MALE	1937	2008	71	NA	NA	05	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.05.4427	LUAD	FEMALE	1943	2008	65	NA	NA	05	Stage IIB	Current reformed smoker for < or = 15 years	2008	1993	Lung Adenocarcinoma Mixed Subtype	8	YES
+TCGA.05.4430	LUAD	FEMALE	1949	2008	59	NA	NA	05	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	80	YES
+TCGA.05.4432	LUAD	MALE	1942	2008	66	NA	NA	05	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	58	YES
+TCGA.05.4433	LUAD	MALE	1926	2008	82	NA	NA	05	Stage IB	Current reformed smoker for > 15 years	1948	1946	Lung Adenocarcinoma Mixed Subtype	1	YES
+TCGA.05.4434	LUAD	FEMALE	1941	2008	67	NA	NA	05	Stage IV	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	15	YES
+TCGA.05.5420	LUAD	MALE	1941	2008	67	NA	NA	05	Stage IIIA	Current reformed smoker for < or = 15 years	2001	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.05.5423	LUAD	MALE	1941	2006	65	NA	NA	05	Stage IIB	Current reformed smoker for > 15 years	1980	1956	Lung Adenocarcinoma Mixed Subtype	72	YES
+TCGA.05.5425	LUAD	MALE	1941	2009	68	NA	NA	05	Stage IIB	Current reformed smoker for > 15 years	1985	1965	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.05.5428	LUAD	MALE	1953	2010	57	NA	NA	05	Stage IIA	Current reformed smoker for > 15 years	1993	1969	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.05.5429	LUAD	MALE	1950	2010	60	NA	NA	05	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.05.5715	LUAD	FEMALE	1941	2010	69	NA	NA	05	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.35.3615	LUAD	MALE	1950	2007	57	WHITE	NOT HISPANIC OR LATINO	35	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.35.4122	LUAD	MALE	1941	2010	69	WHITE	NOT HISPANIC OR LATINO	35	Stage IA	Current reformed smoker for < or = 15 years	2010	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.35.4123	LUAD	MALE	1972	2010	38	WHITE	NOT HISPANIC OR LATINO	35	Stage IA	Current reformed smoker for < or = 15 years	2010	1990	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.35.5375	LUAD	MALE	1949	2010	61	WHITE	NOT HISPANIC OR LATINO	35	Stage IIIA	Current reformed smoker for < or = 15 years	2006	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.38.4625	LUAD	FEMALE	1936	2002	66	WHITE	NOT HISPANIC OR LATINO	38	Stage IB	Current smoker	NA	1952	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.38.4626	LUAD	FEMALE	1946	2003	57	WHITE	NOT HISPANIC OR LATINO	38	Stage IIA	Current smoker	NA	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.38.4627	LUAD	FEMALE	1939	2003	64	WHITE	NOT HISPANIC OR LATINO	38	Stage IIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.38.4628	LUAD	FEMALE	1937	2002	65	WHITE	NOT HISPANIC OR LATINO	38	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.38.4629	LUAD	MALE	1935	2003	68	WHITE	NOT HISPANIC OR LATINO	38	Stage IIB	Current reformed smoker for < or = 15 years	2003	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	100	YES
+TCGA.38.4630	LUAD	FEMALE	1925	2000	75	WHITE	NOT HISPANIC OR LATINO	38	Stage IB	Lifelong Non-smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	NO
+TCGA.38.4631	LUAD	FEMALE	1925	1997	72	WHITE	NOT HISPANIC OR LATINO	38	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.38.4632	LUAD	MALE	1956	1998	42	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	38	Stage IV	Current reformed smoker for < or = 15 years	1991	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.38.6178	LUAD	FEMALE	1940	2010	70	WHITE	NOT HISPANIC OR LATINO	38	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.38.7271	LUAD	FEMALE	1934	2006	72	WHITE	NOT HISPANIC OR LATINO	38	Stage IA	Current reformed smoker for < or = 15 years	1999	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.38.A44F	LUAD	MALE	1932	2012	80	WHITE	NOT HISPANIC OR LATINO	38	Stage IB	Current reformed smoker for > 15 years	1977	1965	Lung Adenocarcinoma Mixed Subtype	12	YES
+TCGA.44.2655	LUAD	FEMALE	1944	2009	65	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for > 15 years	1988	1958	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.44.2656	LUAD	MALE	1950	2009	59	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2009	1994	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	23	YES
+TCGA.44.2657	LUAD	FEMALE	1935	2009	74	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2006	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.44.2659	LUAD	FEMALE	1944	2009	65	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Current reformed smoker for < or = 15 years	2003	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	57	YES
+TCGA.44.2661	LUAD	FEMALE	1940	2009	69	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.44.2662	LUAD	MALE	1944	2009	65	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for > 15 years	1984	1956	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	56	YES
+TCGA.44.2664	LUAD	FEMALE	1943	2009	66	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IA	Current smoker	NA	1964	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	23	YES
+TCGA.44.2665	LUAD	FEMALE	1954	2009	55	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.44.2666	LUAD	MALE	1966	2009	43	WHITE	HISPANIC OR LATINO	44	Stage IB	Current smoker	NA	1979	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.44.2668	LUAD	MALE	1958	2009	51	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2009	1979	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.44.3396	LUAD	FEMALE	1935	2009	74	WHITE	NOT HISPANIC OR LATINO	44	Stage IIIA	Current smoker	NA	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.44.3398	LUAD	FEMALE	1932	2009	77	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for < or = 15 years	2009	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.44.3917	LUAD	FEMALE	1976	2009	33	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current smoker	NA	1993	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	16	YES
+TCGA.44.3918	LUAD	FEMALE	1950	2010	60	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for > 15 years	1994	1974	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.3919	LUAD	FEMALE	1939	2010	71	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.44.4112	LUAD	FEMALE	1950	2010	60	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for > 15 years	1992	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.44.5643	LUAD	MALE	1957	2010	53	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.5644	LUAD	FEMALE	1959	2010	51	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current smoker	NA	1975	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	17.5	YES
+TCGA.44.5645	LUAD	FEMALE	1949	2010	61	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for > 15 years	1973	1963	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	5	YES
+TCGA.44.6144	LUAD	MALE	1953	2011	58	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current smoker	NA	1968	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	67.5	YES
+TCGA.44.6145	LUAD	FEMALE	1949	2011	62	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for < or = 15 years	1999	1963	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	75	YES
+TCGA.44.6146	LUAD	MALE	1946	2010	64	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Current reformed smoker for > 15 years	1980	NA	Lung Mucinous Adenocarcinoma	15	YES
+TCGA.44.6147	LUAD	FEMALE	1943	2010	67	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for > 15 years	1980	1976	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.44.6148	LUAD	MALE	1951	2011	60	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for > 15 years	1994	1963	Lung Mucinous Adenocarcinoma	60	YES
+TCGA.44.6774	LUAD	FEMALE	1955	2011	56	WHITE	NOT HISPANIC OR LATINO	44	Stage IIIA	Current smoker	NA	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.6775	LUAD	FEMALE	1939	2011	72	WHITE	HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2005	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.44.6776	LUAD	FEMALE	1945	2005	60	WHITE	NA	44	Stage IA	Current reformed smoker for < or = 15 years	2005	1960	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.44.6777	LUAD	FEMALE	1921	2006	85	WHITE	NA	44	Stage IB	Current reformed smoker for < or = 15 years	2006	1942	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	64	YES
+TCGA.44.6778	LUAD	MALE	1948	2007	59	BLACK OR AFRICAN AMERICAN	NA	44	Stage IA	Current reformed smoker for < or = 15 years	2004	1974	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.44.6779	LUAD	FEMALE	1958	2008	50	WHITE	NA	44	Stage IIB	Current reformed smoker for < or = 15 years	2008	1978	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.44.7659	LUAD	MALE	1940	2010	70	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current smoker	NA	1989	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.44.7660	LUAD	MALE	1939	2011	72	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current smoker	NA	1949	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	124	YES
+TCGA.44.7661	LUAD	FEMALE	1942	2011	69	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for > 15 years	1976	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	22	YES
+TCGA.44.7662	LUAD	MALE	1950	2011	61	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current smoker	NA	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.44.7667	LUAD	FEMALE	1960	2009	49	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Current smoker	NA	1974	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.44.7669	LUAD	MALE	1951	2010	59	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IIA	Current smoker	NA	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.7670	LUAD	FEMALE	1963	2010	47	WHITE	HISPANIC OR LATINO	44	Stage IIA	Current smoker	NA	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.44.7671	LUAD	MALE	1946	2010	64	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for > 15 years	1995	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.44.7672	LUAD	FEMALE	1958	2010	52	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current smoker	NA	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.8117	LUAD	FEMALE	1957	2011	54	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2011	1975	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	54	YES
+TCGA.44.8119	LUAD	MALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Current smoker	NA	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.44.8120	LUAD	MALE	1953	2011	58	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IB	Current Reformed Smoker, Duration Not Specified	NA	1981	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.44.A479	LUAD	FEMALE	1939	2012	73	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2002	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.44.A47A	LUAD	FEMALE	1934	2012	78	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for < or = 15 years	2010	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	80	YES
+TCGA.44.A47B	LUAD	MALE	1933	2012	79	WHITE	NOT HISPANIC OR LATINO	44	Stage IB	Current reformed smoker for > 15 years	1965	1956	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	4.5	YES
+TCGA.44.A47F	LUAD	MALE	1938	2012	74	WHITE	NOT HISPANIC OR LATINO	44	Stage IIB	Current reformed smoker for > 15 years	1987	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.44.A47G	LUAD	FEMALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for < or = 15 years	2012	1956	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	28	YES
+TCGA.44.A4SS	LUAD	MALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for < or = 15 years	2012	1952	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	90	YES
+TCGA.44.A4SU	LUAD	FEMALE	1945	2012	67	WHITE	NOT HISPANIC OR LATINO	44	Stage IA	Current reformed smoker for < or = 15 years	2011	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.49.4486	LUAD	MALE	1920	1992	72	WHITE	NOT HISPANIC OR LATINO	49	Stage IA	Current reformed smoker for > 15 years	1967	1932	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	17.5	YES
+TCGA.49.4487	LUAD	FEMALE	1920	1992	72	WHITE	NOT HISPANIC OR LATINO	49	Stage IA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.49.4488	LUAD	FEMALE	1918	1992	74	WHITE	NOT HISPANIC OR LATINO	49	Stage IA	Current reformed smoker for > 15 years	1964	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.49.4490	LUAD	FEMALE	1948	1993	45	WHITE	NOT HISPANIC OR LATINO	49	Stage IIIA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	5	YES
+TCGA.49.4494	LUAD	MALE	1918	1995	77	WHITE	NOT HISPANIC OR LATINO	49	Stage IIIA	Current reformed smoker for > 15 years	1955	1930	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.49.4501	LUAD	FEMALE	1929	1996	67	WHITE	NOT HISPANIC OR LATINO	49	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.49.4505	LUAD	FEMALE	1935	1996	61	WHITE	NOT HISPANIC OR LATINO	49	Stage IIB	Current reformed smoker for < or = 15 years	1986	1949	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	74	YES
+TCGA.49.4506	LUAD	FEMALE	1929	1997	68	WHITE	NOT HISPANIC OR LATINO	49	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	100	YES
+TCGA.49.4507	LUAD	FEMALE	1924	1997	73	WHITE	NOT HISPANIC OR LATINO	49	Stage IIIA	Current reformed smoker for < or = 15 years	1991	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	78	YES
+TCGA.49.4510	LUAD	FEMALE	1950	2001	51	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	55.5	YES
+TCGA.49.4512	LUAD	FEMALE	1938	2007	69	WHITE	NOT HISPANIC OR LATINO	49	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.49.4514	LUAD	FEMALE	1928	2007	79	WHITE	NA	49	Stage IA	Current reformed smoker for > 15 years	NA	NA	Lung Papillary Adenocarcinoma	65	YES
+TCGA.49.6742	LUAD	MALE	1940	2010	70	WHITE	NOT HISPANIC OR LATINO	49	Stage IIA	Current reformed smoker for > 15 years	NA	NA	Mucinous (Colloid) Carcinoma	10	YES
+TCGA.49.6743	LUAD	FEMALE	1929	2010	81	WHITE	NA	49	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Clear Cell Adenocarcinoma	50	YES
+TCGA.49.6744	LUAD	FEMALE	1946	2010	64	WHITE	NA	49	Stage IIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.49.6745	LUAD	MALE	1929	2011	82	WHITE	NA	49	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.49.6761	LUAD	FEMALE	1941	2009	68	WHITE	NOT HISPANIC OR LATINO	49	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.49.6767	LUAD	FEMALE	1964	2010	46	WHITE	NA	49	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.49.AAQV	LUAD	FEMALE	1949	2012	63	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage II	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.49.AAR0	LUAD	MALE	1945	2002	57	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	37	YES
+TCGA.49.AAR2	LUAD	MALE	1945	2009	64	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IB	Current reformed smoker for < or = 15 years	2006	NA	Lung Acinar Adenocarcinoma	NA	YES
+TCGA.49.AAR3	LUAD	MALE	1939	2008	69	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.49.AAR4	LUAD	MALE	1955	2006	51	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.49.AAR9	LUAD	MALE	1938	1999	61	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.49.AARE	LUAD	FEMALE	1948	1999	51	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IA	Current reformed smoker for < or = 15 years	1995	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.49.AARN	LUAD	FEMALE	1944	2000	56	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IA	Current Reformed Smoker, Duration Not Specified	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.49.AARO	LUAD	FEMALE	1964	2003	39	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IA	Current smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.49.AARQ	LUAD	FEMALE	1955	1996	41	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage I	Current reformed smoker for < or = 15 years	2007	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.49.AARR	LUAD	MALE	1933	2001	68	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	49	Stage IA	Current reformed smoker for > 15 years	1987	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.4B.A93V	LUAD	FEMALE	1961	2013	52	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	4B	Stage IA	Current reformed smoker for < or = 15 years	2013	1984	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.50.5044	LUAD	FEMALE	1930	2002	72	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5045	LUAD	FEMALE	1947	2004	57	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	50	Stage IA	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5049	LUAD	MALE	1936	2006	70	WHITE	NOT HISPANIC OR LATINO	50	Stage IA	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5051	LUAD	FEMALE	1965	2007	42	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	Current reformed smoker for < or = 15 years	2006	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.50.5055	LUAD	FEMALE	1929	2008	79	WHITE	NOT HISPANIC OR LATINO	50	Stage IIA	NA	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NA
+TCGA.50.5066	LUAD	MALE	1937	2009	72	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	50	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.50.5068	LUAD	FEMALE	1944	2003	59	WHITE	NOT HISPANIC OR LATINO	50	Stage IIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5072	LUAD	MALE	1935	2009	74	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	Current reformed smoker for > 15 years	1974	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.50.5930	LUAD	MALE	1954	2001	47	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	NA	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NA
+TCGA.50.5931	LUAD	FEMALE	1926	2001	75	WHITE	NOT HISPANIC OR LATINO	50	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.50.5932	LUAD	MALE	1926	2001	75	WHITE	NOT HISPANIC OR LATINO	50	Stage IIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5933	LUAD	MALE	1929	2001	72	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5935	LUAD	FEMALE	1920	2006	86	WHITE	NOT HISPANIC OR LATINO	50	Stage IA	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.50.5936	LUAD	MALE	1949	2007	58	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	NA	NA	NA	Mucinous (Colloid) Carcinoma	NA	NA
+TCGA.50.5939	LUAD	MALE	1923	2008	85	WHITE	NOT HISPANIC OR LATINO	50	Stage IB	Current reformed smoker for > 15 years	1968	NA	Lung Adenocarcinoma Mixed Subtype	15	YES
+TCGA.50.5941	LUAD	FEMALE	1955	2010	55	WHITE	NA	50	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.50.5942	LUAD	FEMALE	1942	2009	67	WHITE	NOT HISPANIC OR LATINO	50	Stage IA	Current reformed smoker for < or = 15 years	2009	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.50.5944	LUAD	FEMALE	1941	2010	69	WHITE	NA	50	Stage IA	NA	NA	NA	Lung Acinar Adenocarcinoma	NA	NA
+TCGA.50.5946	LUAD	MALE	1948	2010	62	WHITE	NA	50	Stage IA	Current reformed smoker for < or = 15 years	2009	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.50.6590	LUAD	FEMALE	1933	2005	72	WHITE	NOT HISPANIC OR LATINO	50	Stage IB	Current reformed smoker for < or = 15 years	2002	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.50.6591	LUAD	FEMALE	1944	2007	63	WHITE	NOT HISPANIC OR LATINO	50	Stage IV	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.50.6592	LUAD	FEMALE	1936	2007	71	WHITE	NOT HISPANIC OR LATINO	50	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.50.6593	LUAD	FEMALE	1959	2008	49	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.50.6594	LUAD	FEMALE	1930	2009	79	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	50	Stage IIIA	Current reformed smoker for < or = 15 years	1998	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.50.6595	LUAD	FEMALE	1935	2009	74	WHITE	NOT HISPANIC OR LATINO	50	Stage IIIA	Current reformed smoker for > 15 years	1979	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.50.6597	LUAD	FEMALE	1928	2007	79	WHITE	NOT HISPANIC OR LATINO	50	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.50.6673	LUAD	FEMALE	1920	2004	84	WHITE	NA	50	Stage I	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.50.7109	LUAD	MALE	1951	2011	60	WHITE	NOT HISPANIC OR LATINO	50	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	120	YES
+TCGA.50.8457	LUAD	FEMALE	1948	2011	63	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	50	Stage IA	Current reformed smoker for < or = 15 years	1997	NA	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.50.8459	LUAD	MALE	1944	2012	68	WHITE	NOT HISPANIC OR LATINO	50	Stage IIB	Current smoker	NA	NA	Mucinous (Colloid) Carcinoma	10	YES
+TCGA.50.8460	LUAD	MALE	1938	2012	74	WHITE	NOT HISPANIC OR LATINO	50	Stage IA	NA	NA	NA	Lung Papillary Adenocarcinoma	NA	NA
+TCGA.53.7624	LUAD	FEMALE	1968	2008	40	WHITE	HISPANIC OR LATINO	53	Stage IV	Current smoker	NA	1986	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.53.7626	LUAD	FEMALE	1932	2008	76	WHITE	NOT HISPANIC OR LATINO	53	Stage IIA	Current reformed smoker for < or = 15 years	2006	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.53.7813	LUAD	FEMALE	1957	2008	51	WHITE	NOT HISPANIC OR LATINO	53	Stage IIIB	Current reformed smoker for < or = 15 years	2008	1973	Lung Bronchioloalveolar Carcinoma Nonmucinous	35	YES
+TCGA.53.A4EZ	LUAD	MALE	1949	2012	63	WHITE	HISPANIC OR LATINO	53	Stage IIA	Current reformed smoker for > 15 years	1996	1956	Lung Acinar Adenocarcinoma	40	YES
+TCGA.55.1592	LUAD	MALE	1940	2005	65	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	1997	1957	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.1594	LUAD	MALE	1937	2005	68	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current smoker	NA	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.1595	LUAD	FEMALE	1930	2004	74	ASIAN	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	1993	1964	Lung Clear Cell Adenocarcinoma	NA	YES
+TCGA.55.1596	LUAD	MALE	1949	2004	55	ASIAN	NOT HISPANIC OR LATINO	55	Stage IIB	Current smoker	NA	1979	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.5899	LUAD	MALE	1952	2010	58	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	1985	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6543	LUAD	FEMALE	1950	2010	60	WHITE	NA	55	Stage IA	Current reformed smoker for < or = 15 years	2004	NA	Lung Bronchioloalveolar Carcinoma Mucinous	60	YES
+TCGA.55.6642	LUAD	MALE	1943	2006	63	WHITE	NA	55	Stage IB	Current smoker	NA	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6712	LUAD	MALE	1939	2010	71	WHITE	NA	55	Stage IIA	Current reformed smoker for < or = 15 years	2003	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6968	LUAD	MALE	1943	2004	61	WHITE	NOT HISPANIC OR LATINO	55	Stage IV	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6969	LUAD	MALE	1952	2004	52	WHITE	NA	55	Stage IB	Current reformed smoker for < or = 15 years	2004	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6970	LUAD	FEMALE	1937	2004	67	WHITE	NA	55	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.55.6971	LUAD	FEMALE	1951	2010	59	WHITE	NA	55	Stage IB	Current reformed smoker for < or = 15 years	2010	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.55.6972	LUAD	MALE	1933	2005	72	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.55.6975	LUAD	MALE	1943	2004	61	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current reformed smoker for < or = 15 years	2004	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.55.6978	LUAD	MALE	1929	2010	81	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.6979	LUAD	FEMALE	1947	2006	59	WHITE	NA	55	Stage IIB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6980	LUAD	MALE	1950	2006	56	WHITE	NA	55	Stage IA	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.55.6981	LUAD	FEMALE	1952	2005	53	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.6982	LUAD	FEMALE	1925	2004	79	WHITE	NA	55	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.6983	LUAD	MALE	1924	2005	81	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current reformed smoker for < or = 15 years	NA	NA	Mucinous (Colloid) Carcinoma	60	YES
+TCGA.55.6984	LUAD	FEMALE	1935	2006	71	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	NA	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NA
+TCGA.55.6985	LUAD	FEMALE	1946	2004	58	WHITE	NA	55	Stage IB	Current reformed smoker for < or = 15 years	2004	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.6986	LUAD	FEMALE	1930	2004	74	WHITE	NA	55	Stage IB	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.55.6987	LUAD	MALE	1929	2006	77	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2006	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7227	LUAD	MALE	1934	2011	77	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current reformed smoker for > 15 years	1993	1953	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7281	LUAD	FEMALE	1941	2011	70	WHITE	NA	55	Stage IA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.55.7283	LUAD	FEMALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current reformed smoker for > 15 years	1961	1950	Lung Bronchioloalveolar Carcinoma Nonmucinous	5	YES
+TCGA.55.7284	LUAD	MALE	1937	2011	74	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current reformed smoker for > 15 years	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	YES
+TCGA.55.7570	LUAD	MALE	1951	2011	60	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7573	LUAD	FEMALE	1939	2011	72	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1983	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7574	LUAD	FEMALE	1947	2011	64	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for < or = 15 years	2011	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	2	YES
+TCGA.55.7576	LUAD	MALE	1957	2011	54	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7724	LUAD	FEMALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for < or = 15 years	2008	1958	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.7725	LUAD	FEMALE	1943	2011	68	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1994	1963	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	16	YES
+TCGA.55.7726	LUAD	FEMALE	1939	2011	72	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1979	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.55.7727	LUAD	MALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.7728	LUAD	FEMALE	1947	2011	64	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for < or = 15 years	1996	1980	Mucinous (Colloid) Carcinoma	30	YES
+TCGA.55.7815	LUAD	MALE	1935	2011	76	NA	NA	55	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.7816	LUAD	FEMALE	1962	2011	49	WHITE	NOT HISPANIC OR LATINO	55	Stage IV	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.7903	LUAD	MALE	1947	2011	64	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.55.7907	LUAD	MALE	1934	2011	77	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current reformed smoker for > 15 years	1994	1954	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	80	YES
+TCGA.55.7910	LUAD	FEMALE	1961	2011	50	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IIA	Current reformed smoker for < or = 15 years	2011	1996	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.55.7911	LUAD	FEMALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1981	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	96	YES
+TCGA.55.7913	LUAD	FEMALE	1950	2011	61	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.55.7914	LUAD	FEMALE	1940	2011	71	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current smoker	NA	1990	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	5	YES
+TCGA.55.7994	LUAD	MALE	1930	2011	81	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	28	YES
+TCGA.55.7995	LUAD	FEMALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2002	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.55.8085	LUAD	MALE	1947	2011	64	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.55.8087	LUAD	FEMALE	1952	2011	59	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.8089	LUAD	MALE	1955	2011	56	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	97	YES
+TCGA.55.8090	LUAD	MALE	1931	2011	80	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8091	LUAD	MALE	1937	2011	74	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for > 15 years	1985	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8092	LUAD	MALE	1937	2012	75	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current reformed smoker for < or = 15 years	2012	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.55.8094	LUAD	MALE	1961	2012	51	WHITE	NOT HISPANIC OR LATINO	55	Stage IV	Current reformed smoker for < or = 15 years	2011	1976	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	70	YES
+TCGA.55.8096	LUAD	FEMALE	1944	2011	67	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	104	YES
+TCGA.55.8097	LUAD	FEMALE	1952	2012	60	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2008	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.55.8203	LUAD	FEMALE	1942	2011	69	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.8204	LUAD	FEMALE	1924	2011	87	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8205	LUAD	FEMALE	1936	2012	76	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current reformed smoker for < or = 15 years	2012	1951	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.55.8206	LUAD	MALE	1956	2012	56	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.8207	LUAD	MALE	1938	2011	73	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Acinar Adenocarcinoma	NA	YES
+TCGA.55.8208	LUAD	FEMALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.8299	LUAD	FEMALE	1951	2012	61	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2012	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.55.8301	LUAD	MALE	1954	2012	58	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	100	YES
+TCGA.55.8302	LUAD	MALE	1958	2012	54	WHITE	NA	55	Stage IB	Current smoker	NA	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	59	YES
+TCGA.55.8505	LUAD	MALE	1950	2012	62	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.55.8506	LUAD	FEMALE	1950	2012	62	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8507	LUAD	MALE	1959	2012	53	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	120	YES
+TCGA.55.8508	LUAD	FEMALE	1952	2012	60	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IIA	Current smoker	NA	NA	Mucinous (Colloid) Carcinoma	NA	YES
+TCGA.55.8510	LUAD	FEMALE	1957	2012	55	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8511	LUAD	FEMALE	1939	2012	73	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	1953	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	58	YES
+TCGA.55.8512	LUAD	MALE	1971	2012	41	WHITE	NOT HISPANIC OR LATINO	55	Stage IV	Current smoker	NA	1989	Lung Bronchioloalveolar Carcinoma Nonmucinous	19	YES
+TCGA.55.8513	LUAD	FEMALE	1935	2012	77	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Lifelong Non-smoker	NA	NA	Mucinous (Colloid) Carcinoma	NA	NO
+TCGA.55.8514	LUAD	FEMALE	1942	2012	70	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for < or = 15 years	2011	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.55.8614	LUAD	MALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for > 15 years	1995	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.55.8615	LUAD	MALE	1945	2012	67	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIA	Current smoker	NA	1966	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	67	YES
+TCGA.55.8616	LUAD	FEMALE	1954	2012	58	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for < or = 15 years	1999	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.55.8619	LUAD	FEMALE	1940	2012	72	WHITE	NOT HISPANIC OR LATINO	55	Stage IIB	Lifelong Non-smoker	NA	NA	Mucinous (Colloid) Carcinoma	NA	NO
+TCGA.55.8620	LUAD	MALE	1952	2012	60	WHITE	NOT HISPANIC OR LATINO	55	Stage IV	Current reformed smoker for < or = 15 years	2012	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	154	YES
+TCGA.55.8621	LUAD	FEMALE	1937	2012	75	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2010	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.55.A48X	LUAD	FEMALE	1949	2012	63	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current reformed smoker for < or = 15 years	1999	1963	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	36	YES
+TCGA.55.A48Y	LUAD	MALE	1943	2012	69	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current smoker	NA	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.55.A48Z	LUAD	FEMALE	1952	2012	60	WHITE	NOT HISPANIC OR LATINO	55	Stage IIIB	Current reformed smoker for < or = 15 years	2012	1972	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.55.A490	LUAD	MALE	1934	2012	78	WHITE	NOT HISPANIC OR LATINO	55	Stage IIA	Current reformed smoker for > 15 years	1985	1951	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	34	YES
+TCGA.55.A491	LUAD	FEMALE	1931	2012	81	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1982	1952	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.55.A492	LUAD	FEMALE	1942	2012	70	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1995	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.55.A493	LUAD	FEMALE	1958	2012	54	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current smoker	NA	1977	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	53	YES
+TCGA.55.A494	LUAD	FEMALE	1951	2012	61	WHITE	NOT HISPANIC OR LATINO	55	Stage IB	Current reformed smoker for > 15 years	1980	1967	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	7	YES
+TCGA.55.A4DF	LUAD	MALE	1924	2012	88	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for > 15 years	1984	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.55.A4DG	LUAD	MALE	1941	2012	71	WHITE	NOT HISPANIC OR LATINO	55	Stage IA	Current reformed smoker for < or = 15 years	2012	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	100	YES
+TCGA.55.A57B	LUAD	FEMALE	1932	2012	80	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	55	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.8394	LUAD	FEMALE	1943	2008	65	WHITE	NOT HISPANIC OR LATINO	62	Stage IIIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.8395	LUAD	FEMALE	1929	2009	80	WHITE	NOT HISPANIC OR LATINO	62	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.8397	LUAD	FEMALE	1938	2008	70	WHITE	NOT HISPANIC OR LATINO	62	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.8398	LUAD	MALE	1952	2007	55	WHITE	NOT HISPANIC OR LATINO	62	Stage IIIA	Current reformed smoker for < or = 15 years	1999	1970	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.62.8399	LUAD	MALE	1944	2006	62	WHITE	NOT HISPANIC OR LATINO	62	Stage IIIA	Current reformed smoker for < or = 15 years	NA	NA	Lung Papillary Adenocarcinoma	70	YES
+TCGA.62.8402	LUAD	FEMALE	1935	2008	73	WHITE	NOT HISPANIC OR LATINO	62	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.A46O	LUAD	FEMALE	1941	2006	65	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	48	YES
+TCGA.62.A46P	LUAD	MALE	1941	2006	65	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.62.A46R	LUAD	FEMALE	1952	2006	54	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	25	YES
+TCGA.62.A46S	LUAD	MALE	1934	2007	73	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current reformed smoker for < or = 15 years	NA	NA	Lung Papillary Adenocarcinoma	40	YES
+TCGA.62.A46U	LUAD	FEMALE	1936	2007	71	WHITE	NOT HISPANIC OR LATINO	62	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.A46V	LUAD	FEMALE	1929	2007	78	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.62.A46Y	LUAD	FEMALE	1938	2008	70	WHITE	NOT HISPANIC OR LATINO	62	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.62.A470	LUAD	MALE	1925	2009	84	WHITE	NOT HISPANIC OR LATINO	62	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Acinar Adenocarcinoma	30	YES
+TCGA.62.A471	LUAD	MALE	1946	2010	64	WHITE	NOT HISPANIC OR LATINO	62	Stage IIB	Current reformed smoker for < or = 15 years	2006	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.62.A472	LUAD	MALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	62	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.64.1676	LUAD	MALE	1947	2005	58	WHITE	NOT HISPANIC OR LATINO	64	Stage IA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.64.1677	LUAD	FEMALE	1928	2005	77	WHITE	NOT HISPANIC OR LATINO	64	Stage IIIA	Current smoker	NA	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.64.1678	LUAD	FEMALE	1936	2006	70	WHITE	NOT HISPANIC OR LATINO	64	Stage IIA	Current reformed smoker for > 15 years	1990	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.64.1679	LUAD	FEMALE	1949	2007	58	WHITE	NOT HISPANIC OR LATINO	64	Stage IIIA	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.64.1680	LUAD	MALE	1944	2007	63	WHITE	NOT HISPANIC OR LATINO	64	Stage IV	Current reformed smoker for > 15 years	1982	1962	Lung Adenocarcinoma Mixed Subtype	50	YES
+TCGA.64.1681	LUAD	FEMALE	1947	2008	61	WHITE	NOT HISPANIC OR LATINO	64	Stage IA	Current reformed smoker for > 15 years	1988	1968	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.64.5774	LUAD	MALE	1944	2004	60	WHITE	NOT HISPANIC OR LATINO	64	Stage IB	Current reformed smoker for < or = 15 years	2004	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.64.5775	LUAD	MALE	1934	2005	71	WHITE	NOT HISPANIC OR LATINO	64	Stage IIIA	Current smoker	NA	1950	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	110	YES
+TCGA.64.5778	LUAD	MALE	1948	2008	60	WHITE	NOT HISPANIC OR LATINO	64	Stage IB	Current reformed smoker for < or = 15 years	2000	1966	Lung Bronchioloalveolar Carcinoma Nonmucinous	68	YES
+TCGA.64.5779	LUAD	MALE	1948	2009	61	WHITE	NOT HISPANIC OR LATINO	64	Stage IIIA	Current reformed smoker for < or = 15 years	2009	1969	Lung Acinar Adenocarcinoma	40	YES
+TCGA.64.5781	LUAD	FEMALE	1952	2007	55	WHITE	NOT HISPANIC OR LATINO	64	Stage IB	Current reformed smoker for < or = 15 years	2007	1982	Lung Adenocarcinoma Mixed Subtype	25	YES
+TCGA.64.5815	LUAD	MALE	1935	2009	74	WHITE	NOT HISPANIC OR LATINO	64	Stage IIB	Current reformed smoker for > 15 years	1985	NA	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.67.3770	LUAD	FEMALE	1939	2009	70	WHITE	NOT HISPANIC OR LATINO	67	Stage IA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.3771	LUAD	FEMALE	1932	2009	77	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	67	Stage IA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.3772	LUAD	FEMALE	1927	2009	82	WHITE	NOT HISPANIC OR LATINO	67	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.67.3773	LUAD	FEMALE	1925	2009	84	WHITE	NOT HISPANIC OR LATINO	67	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.3774	LUAD	FEMALE	1936	2009	73	WHITE	NOT HISPANIC OR LATINO	67	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.3776	LUAD	FEMALE	1952	2009	57	WHITE	NOT HISPANIC OR LATINO	67	Stage IIB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.4679	LUAD	MALE	1940	2009	69	WHITE	NOT HISPANIC OR LATINO	67	NA	Current reformed smoker for < or = 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.67.6215	LUAD	FEMALE	1958	2010	52	WHITE	NOT HISPANIC OR LATINO	67	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.67.6216	LUAD	FEMALE	1953	2010	57	WHITE	NOT HISPANIC OR LATINO	67	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.67.6217	LUAD	FEMALE	1937	2010	73	WHITE	NOT HISPANIC OR LATINO	67	Stage IIA	Current reformed smoker for > 15 years	1965	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.69.7760	LUAD	MALE	1938	2011	73	WHITE	NOT HISPANIC OR LATINO	69	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.69.7761	LUAD	MALE	1927	2011	84	WHITE	NOT HISPANIC OR LATINO	69	Stage IB	Current reformed smoker for > 15 years	1975	1955	Lung Acinar Adenocarcinoma	20	YES
+TCGA.69.7763	LUAD	MALE	1941	2010	69	WHITE	NOT HISPANIC OR LATINO	69	Stage IA	Current reformed smoker for < or = 15 years	2004	1959	Lung Adenocarcinoma Mixed Subtype	7.5	YES
+TCGA.69.7764	LUAD	MALE	1935	2010	75	WHITE	NOT HISPANIC OR LATINO	69	Stage IA	Current reformed smoker for > 15 years	1991	1977	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.69.7765	LUAD	MALE	1955	2011	56	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	69	Stage IV	Current reformed smoker for < or = 15 years	2011	1981	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.69.7973	LUAD	FEMALE	1969	2011	42	WHITE	NOT HISPANIC OR LATINO	69	Stage IB	Current reformed smoker for < or = 15 years	2011	NA	Lung Adenocarcinoma Mixed Subtype	25	YES
+TCGA.69.7974	LUAD	FEMALE	1957	2011	54	WHITE	NOT HISPANIC OR LATINO	69	Stage IIIA	Current reformed smoker for < or = 15 years	2011	1981	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.69.7978	LUAD	MALE	1952	2011	59	WHITE	NOT HISPANIC OR LATINO	69	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	80	YES
+TCGA.69.7979	LUAD	FEMALE	1940	2011	71	WHITE	NOT HISPANIC OR LATINO	69	Stage IB	Current smoker	NA	1955	Lung Acinar Adenocarcinoma	28	YES
+TCGA.69.7980	LUAD	FEMALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	69	Stage I	Current reformed smoker for < or = 15 years	2001	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	80	YES
+TCGA.69.8253	LUAD	FEMALE	1953	2012	59	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	69	Stage IIA	Current reformed smoker for < or = 15 years	2011	1972	Lung Adenocarcinoma Mixed Subtype	7.8	YES
+TCGA.69.8254	LUAD	MALE	1927	2012	85	WHITE	NOT HISPANIC OR LATINO	69	NA	Current reformed smoker for > 15 years	1989	NA	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.69.8255	LUAD	MALE	1940	2011	71	WHITE	HISPANIC OR LATINO	69	Stage IA	Current smoker	NA	1971	Lung Solid Pattern Predominant Adenocarcinoma	40	YES
+TCGA.69.8453	LUAD	MALE	1935	2012	77	WHITE	NOT HISPANIC OR LATINO	69	Stage IIB	Current reformed smoker for > 15 years	1974	NA	Mucinous (Colloid) Carcinoma	12	YES
+TCGA.69.A59K	LUAD	FEMALE	1952	2012	60	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	69	Stage IIB	Current reformed smoker for < or = 15 years	2012	1999	Lung Adenocarcinoma Mixed Subtype	25	YES
+TCGA.71.6725	LUAD	FEMALE	1963	2011	48	ASIAN	NOT HISPANIC OR LATINO	71	Stage IB	Current smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.71.8520	LUAD	FEMALE	1951	2011	60	ASIAN	NOT HISPANIC OR LATINO	71	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.73.4658	LUAD	FEMALE	1924	2004	80	WHITE	NOT HISPANIC OR LATINO	73	Stage IB	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.73.4659	LUAD	MALE	1940	2006	66	WHITE	NOT HISPANIC OR LATINO	73	Stage IIIA	Current reformed smoker for > 15 years	1986	1974	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	12	YES
+TCGA.73.4662	LUAD	FEMALE	1942	2007	65	WHITE	NOT HISPANIC OR LATINO	73	Stage IA	Current reformed smoker for > 15 years	1972	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.73.4666	LUAD	FEMALE	1957	2009	52	WHITE	NOT HISPANIC OR LATINO	73	Stage IV	Current reformed smoker for < or = 15 years	2002	1982	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.73.4668	LUAD	FEMALE	1943	2009	66	AMERICAN INDIAN OR ALASKA NATIVE	NOT HISPANIC OR LATINO	73	Stage IIB	Current reformed smoker for < or = 15 years	2005	1968	Lung Micropapillary Adenocarcinoma	55	YES
+TCGA.73.4670	LUAD	FEMALE	1941	2010	69	WHITE	NOT HISPANIC OR LATINO	73	Stage IV	Current reformed smoker for < or = 15 years	2009	1979	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.73.4675	LUAD	MALE	1951	2010	59	WHITE	NOT HISPANIC OR LATINO	73	Stage IIIA	Current reformed smoker for < or = 15 years	2010	1969	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	41	YES
+TCGA.73.4676	LUAD	MALE	1965	2010	45	WHITE	NOT HISPANIC OR LATINO	73	Stage IIA	Current reformed smoker for < or = 15 years	2009	1977	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	48	YES
+TCGA.73.4677	LUAD	MALE	1936	2010	74	WHITE	NOT HISPANIC OR LATINO	73	Stage IA	Current reformed smoker for > 15 years	1985	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.73.7498	LUAD	FEMALE	1952	2010	58	WHITE	NOT HISPANIC OR LATINO	73	Stage IA	Current reformed smoker for < or = 15 years	1997	1969	Lung Bronchioloalveolar Carcinoma Nonmucinous	28	YES
+TCGA.73.7499	LUAD	FEMALE	1929	2010	81	WHITE	NOT HISPANIC OR LATINO	73	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.73.A9RS	LUAD	MALE	1972	2013	41	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	73	Stage IIB	Current smoker	NA	1990	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	11	YES
+TCGA.75.5122	LUAD	MALE	NA	2005	NA	NA	NA	75	Stage IB	Current reformed smoker for > 15 years	1985	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.75.5125	LUAD	MALE	NA	NA	NA	NA	NA	75	Stage IIB	Current reformed smoker for > 15 years	1987	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.75.5126	LUAD	FEMALE	NA	2007	NA	NA	NA	75	Stage IIIA	Current reformed smoker for < or = 15 years	2007	NA	Lung Papillary Adenocarcinoma	40	YES
+TCGA.75.5146	LUAD	MALE	NA	NA	NA	NA	NA	75	Stage IB	Current reformed smoker for > 15 years	1987	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.75.5147	LUAD	FEMALE	NA	NA	NA	NA	NA	75	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.75.6203	LUAD	FEMALE	NA	2008	NA	NA	NA	75	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	0	NO
+TCGA.75.6205	LUAD	FEMALE	NA	2006	NA	NA	NA	75	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.75.6206	LUAD	MALE	NA	NA	NA	NA	NA	75	Stage IB	Current reformed smoker for > 15 years	1962	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.75.6207	LUAD	MALE	NA	2007	NA	NA	NA	75	Stage IIIA	Current reformed smoker for > 15 years	1972	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.75.6211	LUAD	FEMALE	NA	2009	NA	NA	NA	75	Stage IB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	34	YES
+TCGA.75.6212	LUAD	FEMALE	NA	NA	NA	NA	NA	75	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Micropapillary Adenocarcinoma	NA	NO
+TCGA.75.6214	LUAD	FEMALE	NA	NA	NA	NA	NA	75	Stage IIIA	Current smoker	NA	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.75.7025	LUAD	MALE	NA	NA	NA	NA	NA	75	Stage IB	Current reformed smoker for > 15 years	1986	1967	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.75.7027	LUAD	MALE	NA	NA	NA	NA	NA	75	Stage IB	Current smoker	NA	1956	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.75.7030	LUAD	MALE	NA	2007	NA	NA	NA	75	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.75.7031	LUAD	FEMALE	NA	2008	NA	NA	NA	75	Stage IB	Current reformed smoker for > 15 years	1975	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	5	YES
+TCGA.78.7143	LUAD	FEMALE	1930	1992	62	WHITE	NA	78	Stage IB	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.78.7145	LUAD	FEMALE	1948	2000	52	WHITE	NA	78	Stage IV	Current reformed smoker for < or = 15 years	1998	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.78.7146	LUAD	FEMALE	1928	1999	71	WHITE	NA	78	Stage IIIA	Current reformed smoker for < or = 15 years	1998	1988	Lung Adenocarcinoma Mixed Subtype	6	YES
+TCGA.78.7147	LUAD	FEMALE	1934	2001	67	WHITE	NA	78	Stage IIB	Current smoker	NA	1950	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.78.7148	LUAD	MALE	1930	2001	71	WHITE	NA	78	Stage IIB	Current smoker	NA	1944	Lung Adenocarcinoma Mixed Subtype	57	YES
+TCGA.78.7149	LUAD	MALE	1931	2002	71	WHITE	NA	78	Stage IIIB	Current smoker	NA	1950	Lung Adenocarcinoma Mixed Subtype	115	YES
+TCGA.78.7150	LUAD	MALE	1943	2002	59	WHITE	NA	78	Stage IIB	Current reformed smoker for < or = 15 years	2000	1963	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	37	YES
+TCGA.78.7152	LUAD	MALE	1938	2003	65	WHITE	NA	78	Stage IB	Current reformed smoker for < or = 15 years	1999	1959	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.78.7153	LUAD	FEMALE	1938	2003	65	WHITE	NA	78	Stage IB	Current reformed smoker for < or = 15 years	1988	1948	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.78.7154	LUAD	MALE	1931	2003	72	WHITE	NA	78	Stage IIIA	Current reformed smoker for < or = 15 years	1993	1948	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	112.5	YES
+TCGA.78.7155	LUAD	MALE	1937	2005	68	WHITE	NA	78	Stage IB	Current reformed smoker for < or = 15 years	2005	1957	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	48	YES
+TCGA.78.7156	LUAD	MALE	1944	2006	62	WHITE	NA	78	Stage IV	Current reformed smoker for > 15 years	1989	1961	Lung Adenocarcinoma Mixed Subtype	84	YES
+TCGA.78.7158	LUAD	FEMALE	1948	2007	59	WHITE	NA	78	Stage IIIB	Current reformed smoker for < or = 15 years	2005	1963	Lung Adenocarcinoma Mixed Subtype	14	YES
+TCGA.78.7159	LUAD	FEMALE	1948	2008	60	WHITE	NA	78	Stage IA	Current reformed smoker for < or = 15 years	2007	1965	Lung Adenocarcinoma Mixed Subtype	21	YES
+TCGA.78.7160	LUAD	MALE	1947	2008	61	WHITE	NA	78	Stage IV	Current reformed smoker for < or = 15 years	1998	1963	Lung Adenocarcinoma Mixed Subtype	43.8	YES
+TCGA.78.7161	LUAD	FEMALE	1942	2011	69	WHITE	NA	78	Stage IIB	Current reformed smoker for < or = 15 years	1998	1961	Lung Adenocarcinoma Mixed Subtype	27.8	YES
+TCGA.78.7162	LUAD	MALE	1916	1991	75	WHITE	NA	78	Stage IA	Current smoker	NA	1940	Lung Adenocarcinoma Mixed Subtype	12	YES
+TCGA.78.7163	LUAD	MALE	1932	1992	60	WHITE	NA	78	Stage IB	Current reformed smoker for < or = 15 years	1991	1950	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	41	YES
+TCGA.78.7166	LUAD	MALE	1918	2002	84	WHITE	NA	78	Stage IIB	Current reformed smoker for > 15 years	1972	1934	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	38	YES
+TCGA.78.7167	LUAD	MALE	1925	2002	77	WHITE	NA	78	Stage IV	Current smoker	NA	1937	Lung Papillary Adenocarcinoma	64	YES
+TCGA.78.7220	LUAD	FEMALE	1947	2000	53	WHITE	NA	78	Stage IIIA	Current smoker	NA	1965	Lung Adenocarcinoma Mixed Subtype	35	YES
+TCGA.78.7535	LUAD	MALE	1955	2000	45	WHITE	NA	78	Stage IB	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.78.7536	LUAD	MALE	1932	2001	69	WHITE	NA	78	Stage IIIA	Current reformed smoker for < or = 15 years	1993	1949	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	44	YES
+TCGA.78.7537	LUAD	MALE	1930	2002	72	NA	NA	78	Stage IB	Current reformed smoker for > 15 years	1984	1944	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.78.7539	LUAD	FEMALE	1936	2011	75	WHITE	NA	78	Stage IIA	Current reformed smoker for > 15 years	1981	1953	Lung Adenocarcinoma Mixed Subtype	2.2	YES
+TCGA.78.7540	LUAD	FEMALE	1933	1999	66	WHITE	NA	78	Stage IB	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Mucinous	NA	NO
+TCGA.78.7542	LUAD	MALE	1937	1993	56	WHITE	NA	78	Stage IB	Current smoker	NA	1952	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.78.7633	LUAD	MALE	1942	2009	67	WHITE	NA	78	Stage IB	Current reformed smoker for < or = 15 years	2002	1955	Lung Adenocarcinoma Mixed Subtype	94	YES
+TCGA.78.8640	LUAD	MALE	1935	1994	59	NA	NA	78	Stage IIA	Current smoker	NA	1949	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.78.8648	LUAD	FEMALE	1944	2002	58	NA	NA	78	Stage IIB	Current smoker	NA	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.78.8655	LUAD	FEMALE	1926	2003	77	NA	NA	78	Stage IA	Current reformed smoker for < or = 15 years	2001	1981	Lung Adenocarcinoma Mixed Subtype	10	YES
+TCGA.78.8660	LUAD	MALE	1936	2005	69	NA	NA	78	Stage IIB	Current reformed smoker for < or = 15 years	2005	1954	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	11	YES
+TCGA.78.8662	LUAD	FEMALE	1947	2000	53	NA	NA	78	Stage IB	Current smoker	NA	1964	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.80.5607	LUAD	FEMALE	NA	2007	NA	NA	NA	80	Stage IIB	Current reformed smoker for > 15 years	1985	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.80.5608	LUAD	FEMALE	NA	NA	NA	NA	NA	80	Stage IA	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	26	YES
+TCGA.80.5611	LUAD	MALE	NA	NA	NA	NA	NA	80	Stage IB	Current reformed smoker for < or = 15 years	2008	NA	Lung Solid Pattern Predominant Adenocarcinoma	60	YES
+TCGA.83.5908	LUAD	FEMALE	1950	2009	59	WHITE	NOT HISPANIC OR LATINO	83	Stage IA	Current reformed smoker for < or = 15 years	2007	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	69	YES
+TCGA.86.6562	LUAD	MALE	1959	2011	52	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.6851	LUAD	FEMALE	1938	2011	73	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Current smoker	NA	1959	Lung Adenocarcinoma Mixed Subtype	52	YES
+TCGA.86.7701	LUAD	MALE	1945	2011	66	WHITE	NOT HISPANIC OR LATINO	86	Stage IV	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	0	NO
+TCGA.86.7711	LUAD	MALE	1941	2011	70	WHITE	HISPANIC OR LATINO	86	Stage IIA	Current smoker	NA	1960	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.86.7713	LUAD	MALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.7714	LUAD	FEMALE	1950	2011	61	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	86	Stage IIIA	Current smoker	NA	1968	Lung Adenocarcinoma Mixed Subtype	43	YES
+TCGA.86.7953	LUAD	FEMALE	1942	2011	69	WHITE	NOT HISPANIC OR LATINO	86	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.7954	LUAD	FEMALE	1943	2011	68	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Current reformed smoker for > 15 years	1971	1963	Lung Bronchioloalveolar Carcinoma Nonmucinous	8	YES
+TCGA.86.7955	LUAD	MALE	1949	2011	62	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.8054	LUAD	MALE	1950	2011	61	WHITE	NOT HISPANIC OR LATINO	86	Stage IIB	Current smoker	NA	1994	Lung Acinar Adenocarcinoma	9	YES
+TCGA.86.8055	LUAD	MALE	1932	2011	79	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Current smoker	NA	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	60	YES
+TCGA.86.8056	LUAD	FEMALE	1948	2011	63	WHITE	NOT HISPANIC OR LATINO	86	Stage IIIA	Current reformed smoker for > 15 years	1975	1963	Lung Adenocarcinoma Mixed Subtype	36	YES
+TCGA.86.8073	LUAD	MALE	1953	2011	58	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Current smoker	NA	1970	Lung Bronchioloalveolar Carcinoma Nonmucinous	40	YES
+TCGA.86.8074	LUAD	FEMALE	1949	2011	62	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Current smoker	NA	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.86.8075	LUAD	FEMALE	1945	2011	66	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.8076	LUAD	MALE	1969	2011	42	WHITE	NOT HISPANIC OR LATINO	86	Stage IA	Lifelong Non-smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	NO
+TCGA.86.8278	LUAD	FEMALE	1948	2011	63	WHITE	NOT HISPANIC OR LATINO	86	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.8279	LUAD	MALE	1965	2011	46	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.8280	LUAD	FEMALE	1957	2011	54	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.86.8281	LUAD	MALE	1936	2011	75	WHITE	NOT HISPANIC OR LATINO	86	Stage IA	Current reformed smoker for > 15 years	1985	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.86.8358	LUAD	MALE	1968	2012	44	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Current smoker	NA	1992	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.86.8359	LUAD	MALE	1960	2012	52	WHITE	NOT HISPANIC OR LATINO	86	Stage IIIA	Current smoker	NA	1982	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	36	YES
+TCGA.86.8585	LUAD	MALE	1955	2012	57	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Lifelong Non-smoker	NA	NA	Lung Solid Pattern Predominant Adenocarcinoma	NA	NO
+TCGA.86.8668	LUAD	FEMALE	1951	2012	61	WHITE	NOT HISPANIC OR LATINO	86	Stage IA	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Mucinous	NA	NO
+TCGA.86.8669	LUAD	MALE	1948	2012	64	WHITE	NOT HISPANIC OR LATINO	86	Stage IA	Current smoker	NA	1965	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	47	YES
+TCGA.86.8671	LUAD	FEMALE	1940	2012	72	WHITE	NOT HISPANIC OR LATINO	86	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	NO
+TCGA.86.8672	LUAD	MALE	1953	2012	59	WHITE	NOT HISPANIC OR LATINO	86	Stage IIB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.8673	LUAD	MALE	1950	2011	61	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Current smoker	NA	1968	Lung Bronchioloalveolar Carcinoma Nonmucinous	54	YES
+TCGA.86.8674	LUAD	MALE	1962	2012	50	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Current reformed smoker for < or = 15 years	2012	1982	Lung Papillary Adenocarcinoma	37.5	YES
+TCGA.86.A456	LUAD	FEMALE	1934	2012	78	ASIAN	NOT HISPANIC OR LATINO	86	Stage IA	Current reformed smoker for < or = 15 years	2009	1974	Lung Papillary Adenocarcinoma	NA	YES
+TCGA.86.A4D0	LUAD	MALE	1964	2012	48	WHITE	NOT HISPANIC OR LATINO	86	Stage IIA	Current smoker	NA	1983	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.86.A4JF	LUAD	MALE	1956	2012	56	WHITE	NOT HISPANIC OR LATINO	86	Stage IIB	Current reformed smoker for < or = 15 years	2012	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.86.A4P7	LUAD	FEMALE	1949	2012	63	WHITE	NOT HISPANIC OR LATINO	86	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.86.A4P8	LUAD	FEMALE	1953	2012	59	WHITE	NOT HISPANIC OR LATINO	86	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.91.6828	LUAD	MALE	1941	2011	70	WHITE	NOT HISPANIC OR LATINO	91	Stage IA	Current reformed smoker for > 15 years	1993	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.91.6829	LUAD	MALE	1923	2001	78	WHITE	NOT HISPANIC OR LATINO	91	Stage IB	Current reformed smoker for < or = 15 years	2003	1940	Lung Bronchioloalveolar Carcinoma Nonmucinous	94.5	YES
+TCGA.91.6830	LUAD	FEMALE	1937	2002	65	WHITE	NOT HISPANIC OR LATINO	91	Stage IIA	Current reformed smoker for < or = 15 years	2002	1990	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	12	YES
+TCGA.91.6831	LUAD	MALE	1935	2001	66	WHITE	NOT HISPANIC OR LATINO	91	Stage IB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.91.6835	LUAD	FEMALE	1929	2010	81	WHITE	NOT HISPANIC OR LATINO	91	Stage IA	Current reformed smoker for > 15 years	1976	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.91.6836	LUAD	FEMALE	1958	2010	52	WHITE	NOT HISPANIC OR LATINO	91	Stage IB	Current smoker	NA	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.91.6840	LUAD	FEMALE	1952	2011	59	WHITE	NOT HISPANIC OR LATINO	91	Stage IA	Current reformed smoker for > 15 years	1996	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.91.6847	LUAD	FEMALE	1940	2002	62	WHITE	NOT HISPANIC OR LATINO	91	Stage IB	Current reformed smoker for > 15 years	1967	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.91.6848	LUAD	MALE	1950	2009	59	WHITE	NOT HISPANIC OR LATINO	91	Stage IIIA	Current reformed smoker for < or = 15 years	2007	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.91.6849	LUAD	FEMALE	1934	2009	75	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	91	Stage IIIA	Current reformed smoker for > 15 years	1976	1946	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.91.7771	LUAD	MALE	1949	2011	62	WHITE	NOT HISPANIC OR LATINO	91	Stage IIB	Current reformed smoker for < or = 15 years	2011	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	75	YES
+TCGA.91.8496	LUAD	FEMALE	1948	2011	63	WHITE	NOT HISPANIC OR LATINO	91	Stage IB	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.91.8497	LUAD	FEMALE	1937	2012	75	WHITE	NOT HISPANIC OR LATINO	91	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.91.8499	LUAD	FEMALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	91	Stage IA	Current smoker	NA	1945	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	90	YES
+TCGA.91.A4BC	LUAD	MALE	1953	2012	59	WHITE	NOT HISPANIC OR LATINO	91	Stage IIA	Current reformed smoker for < or = 15 years	2001	1976	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.91.A4BD	LUAD	MALE	1934	2012	78	WHITE	NOT HISPANIC OR LATINO	91	Stage IIA	Current reformed smoker for > 15 years	1981	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.93.7347	LUAD	FEMALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	93	Stage IA	Current reformed smoker for > 15 years	1967	1952	Lung Adenocarcinoma Mixed Subtype	11	YES
+TCGA.93.7348	LUAD	FEMALE	1936	2011	75	WHITE	NOT HISPANIC OR LATINO	93	Stage IA	Current reformed smoker for < or = 15 years	1999	1957	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	42	YES
+TCGA.93.8067	LUAD	MALE	1934	2011	77	ASIAN	NOT HISPANIC OR LATINO	93	Stage IB	Current reformed smoker for < or = 15 years	2001	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.93.A4JN	LUAD	MALE	1941	2012	71	WHITE	NOT HISPANIC OR LATINO	93	Stage IV	Current reformed smoker for > 15 years	1991	1971	Lung Acinar Adenocarcinoma	40	YES
+TCGA.93.A4JO	LUAD	MALE	1942	2012	70	WHITE	NOT HISPANIC OR LATINO	93	Stage IA	Current reformed smoker for < or = 15 years	2006	1956	Lung Adenocarcinoma Mixed Subtype	50	YES
+TCGA.93.A4JP	LUAD	MALE	1948	2012	64	ASIAN	NOT HISPANIC OR LATINO	93	Stage IV	Lifelong Non-smoker	NA	NA	Lung Papillary Adenocarcinoma	NA	NO
+TCGA.93.A4JQ	LUAD	MALE	1963	2012	49	WHITE	NOT HISPANIC OR LATINO	93	Stage IA	Current reformed smoker for > 15 years	1993	1973	Lung Acinar Adenocarcinoma	NA	YES
+TCGA.95.7039	LUAD	FEMALE	1957	2011	54	WHITE	NOT HISPANIC OR LATINO	95	Stage IIB	Current smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	34	YES
+TCGA.95.7043	LUAD	FEMALE	1948	2011	63	WHITE	NOT HISPANIC OR LATINO	95	Stage IA	Current reformed smoker for < or = 15 years	2003	1964	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.95.7562	LUAD	MALE	1940	2011	71	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	95	Stage IIA	Current reformed smoker for > 15 years	1983	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.95.7567	LUAD	MALE	1950	2011	61	WHITE	NOT HISPANIC OR LATINO	95	Stage IIB	Current reformed smoker for < or = 15 years	2011	1970	Lung Adenocarcinoma Mixed Subtype	NA	YES
+TCGA.95.7944	LUAD	MALE	1940	2011	71	WHITE	NOT HISPANIC OR LATINO	95	Stage IA	Current smoker	NA	1961	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.95.7947	LUAD	MALE	1944	2011	67	WHITE	NOT HISPANIC OR LATINO	95	Stage IA	Current reformed smoker for < or = 15 years	2006	1956	Lung Adenocarcinoma Mixed Subtype	100	YES
+TCGA.95.7948	LUAD	FEMALE	1969	2011	42	WHITE	NOT HISPANIC OR LATINO	95	Stage IB	Current reformed smoker for > 15 years	1995	1993	Lung Adenocarcinoma Mixed Subtype	0.15	YES
+TCGA.95.8039	LUAD	MALE	1940	2012	72	WHITE	NOT HISPANIC OR LATINO	95	Stage IA	Lifelong Non-smoker	NA	NA	Lung Acinar Adenocarcinoma	NA	NO
+TCGA.95.8494	LUAD	MALE	1945	2012	67	WHITE	NOT HISPANIC OR LATINO	95	Stage IIA	Current Reformed Smoker, Duration Not Specified	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.95.A4VK	LUAD	FEMALE	1938	2012	74	WHITE	NOT HISPANIC OR LATINO	95	Stage IIIA	Current reformed smoker for > 15 years	1986	1956	Lung Adenocarcinoma Mixed Subtype	45	YES
+TCGA.95.A4VN	LUAD	FEMALE	1950	2012	62	WHITE	NOT HISPANIC OR LATINO	95	Stage IIA	Current reformed smoker for < or = 15 years	2007	1965	Lung Solid Pattern Predominant Adenocarcinoma	42	YES
+TCGA.95.A4VP	LUAD	FEMALE	1946	2012	66	WHITE	NA	95	Stage IIIA	Current reformed smoker for < or = 15 years	2012	1972	Lung Acinar Adenocarcinoma	20	YES
+TCGA.97.7546	LUAD	FEMALE	1932	2008	76	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1983	1963	Lung Acinar Adenocarcinoma	25	YES
+TCGA.97.7547	LUAD	FEMALE	1940	2007	67	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1986	NA	Lung Papillary Adenocarcinoma	30	YES
+TCGA.97.7552	LUAD	MALE	1937	2007	70	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1985	NA	Lung Bronchioloalveolar Carcinoma Mucinous	40	YES
+TCGA.97.7553	LUAD	FEMALE	1949	2007	58	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current smoker	NA	1967	Lung Bronchioloalveolar Carcinoma Nonmucinous	20	YES
+TCGA.97.7554	LUAD	FEMALE	1927	2010	83	WHITE	NOT HISPANIC OR LATINO	97	Stage IIIA	Current reformed smoker for > 15 years	1983	1945	Lung Papillary Adenocarcinoma	30	YES
+TCGA.97.7937	LUAD	MALE	1946	2011	65	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1994	NA	Lung Micropapillary Adenocarcinoma	35	YES
+TCGA.97.7938	LUAD	FEMALE	1935	2011	76	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1996	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	40	YES
+TCGA.97.7941	LUAD	FEMALE	1939	2011	72	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1985	1960	Lung Acinar Adenocarcinoma	22.5	YES
+TCGA.97.8171	LUAD	MALE	1930	2011	81	ASIAN	NOT HISPANIC OR LATINO	97	Stage IV	Current smoker	NA	1946	Lung Papillary Adenocarcinoma	65	YES
+TCGA.97.8172	LUAD	FEMALE	1936	2011	75	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1981	1961	Lung Acinar Adenocarcinoma	20	YES
+TCGA.97.8174	LUAD	MALE	1944	2011	67	WHITE	NOT HISPANIC OR LATINO	97	Stage IIA	Current reformed smoker for > 15 years	1985	1965	Lung Papillary Adenocarcinoma	40	YES
+TCGA.97.8175	LUAD	FEMALE	1956	2011	55	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1981	NA	Lung Solid Pattern Predominant Adenocarcinoma	NA	YES
+TCGA.97.8176	LUAD	MALE	1949	2012	63	WHITE	NOT HISPANIC OR LATINO	97	Stage IIIA	Current reformed smoker for < or = 15 years	2011	1971	Lung Acinar Adenocarcinoma	40	YES
+TCGA.97.8177	LUAD	FEMALE	1953	2012	59	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.97.8179	LUAD	MALE	1940	2012	72	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1988	1958	Lung Acinar Adenocarcinoma	60	YES
+TCGA.97.8547	LUAD	FEMALE	1934	2012	78	NA	NA	97	Stage IIIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.97.8552	LUAD	FEMALE	1957	2012	55	WHITE	NOT HISPANIC OR LATINO	97	Stage I	Lifelong Non-smoker	NA	NA	Lung Bronchioloalveolar Carcinoma Nonmucinous	NA	NO
+TCGA.97.A4LX	LUAD	MALE	1931	2012	81	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for > 15 years	1985	1945	Lung Adenocarcinoma Mixed Subtype	120	YES
+TCGA.97.A4M0	LUAD	FEMALE	1952	2012	60	WHITE	NOT HISPANIC OR LATINO	97	Stage IB	Current reformed smoker for < or = 15 years	2004	1970	Lung Adenocarcinoma Mixed Subtype	34	YES
+TCGA.97.A4M1	LUAD	FEMALE	1960	2012	52	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1975	1972	Lung Adenocarcinoma Mixed Subtype	3	YES
+TCGA.97.A4M2	LUAD	MALE	1946	2012	66	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current smoker	NA	1972	Lung Adenocarcinoma Mixed Subtype	100	YES
+TCGA.97.A4M3	LUAD	FEMALE	1943	2012	69	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1984	1959	Lung Adenocarcinoma Mixed Subtype	37.5	YES
+TCGA.97.A4M5	LUAD	MALE	1929	2012	83	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1982	1952	Lung Adenocarcinoma Mixed Subtype	6	YES
+TCGA.97.A4M6	LUAD	FEMALE	1967	2012	45	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma Mixed Subtype	NA	NO
+TCGA.97.A4M7	LUAD	MALE	1938	2012	74	WHITE	NOT HISPANIC OR LATINO	97	Stage IA	Current reformed smoker for > 15 years	1978	1958	Lung Adenocarcinoma Mixed Subtype	40	YES
+TCGA.99.7458	LUAD	FEMALE	1936	2010	74	WHITE	NOT HISPANIC OR LATINO	99	Stage IIIA	Current reformed smoker for < or = 15 years	2010	1958	Lung Bronchioloalveolar Carcinoma Nonmucinous	52	YES
+TCGA.99.8025	LUAD	FEMALE	1938	2010	72	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	99	Stage IIIA	Current reformed smoker for < or = 15 years	1998	1958	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.99.8028	LUAD	FEMALE	1961	2011	50	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	99	Stage IA	Current reformed smoker for < or = 15 years	2011	1981	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.99.8032	LUAD	MALE	1950	2011	61	WHITE	NOT HISPANIC OR LATINO	99	Stage IA	Current smoker	NA	1966	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	90	YES
+TCGA.99.8033	LUAD	FEMALE	1937	2011	74	WHITE	NOT HISPANIC OR LATINO	99	Stage IV	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.99.AA5R	LUAD	FEMALE	1943	2013	70	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	99	Stage IA	Current smoker	NA	1967	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	46	YES
+TCGA.J2.8192	LUAD	FEMALE	1946	2011	65	WHITE	NOT HISPANIC OR LATINO	J2	Stage IIA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.J2.8194	LUAD	FEMALE	1942	2011	69	WHITE	NOT HISPANIC OR LATINO	J2	Stage IIB	Current reformed smoker for > 15 years	1982	1956	Lung Adenocarcinoma Mixed Subtype	20	YES
+TCGA.J2.A4AD	LUAD	FEMALE	1951	2012	61	WHITE	NOT HISPANIC OR LATINO	J2	Stage IA	Current smoker	NA	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	120	YES
+TCGA.J2.A4AE	LUAD	FEMALE	1935	2012	77	WHITE	NOT HISPANIC OR LATINO	J2	Stage IA	Lifelong Non-smoker	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	NO
+TCGA.J2.A4AG	LUAD	FEMALE	1946	2012	66	WHITE	NOT HISPANIC OR LATINO	J2	Stage IA	Current reformed smoker for > 15 years	1981	1956	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.L4.A4E5	LUAD	FEMALE	1964	2012	48	WHITE	NOT HISPANIC OR LATINO	L4	Stage I	Current reformed smoker for < or = 15 years	2012	1979	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	33	YES
+TCGA.L4.A4E6	LUAD	MALE	1945	2012	67	WHITE	NOT HISPANIC OR LATINO	L4	Stage IA	Current reformed smoker for > 15 years	1984	1954	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	30	YES
+TCGA.L9.A443	LUAD	FEMALE	1949	2012	63	WHITE	NOT HISPANIC OR LATINO	L9	Stage IA	Current reformed smoker for < or = 15 years	2005	1960	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	90	YES
+TCGA.L9.A444	LUAD	FEMALE	1952	2012	60	WHITE	NOT HISPANIC OR LATINO	L9	Stage IA	Current smoker	NA	1972	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	10	YES
+TCGA.L9.A50W	LUAD	MALE	1937	2012	75	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	L9	Stage IIA	Current reformed smoker for > 15 years	1986	1967	Lung Adenocarcinoma Mixed Subtype	19	YES
+TCGA.L9.A5IP	LUAD	FEMALE	1972	2012	40	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	L9	Stage IV	Current reformed smoker for < or = 15 years	2012	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.L9.A743	LUAD	MALE	1957	2013	56	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	L9	Stage IIA	Current smoker	NA	1986	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40.5	YES
+TCGA.L9.A7SV	LUAD	MALE	1944	2013	69	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	L9	Stage IIA	Current reformed smoker for > 15 years	1990	1959	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	93	YES
+TCGA.L9.A8F4	LUAD	FEMALE	1949	2013	64	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	L9	Stage IB	Current smoker	NA	1973	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	14	YES
+TCGA.MN.A4N1	LUAD	MALE	1951	2011	60	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	MN	Stage IIA	Current smoker	NA	1967	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.MN.A4N4	LUAD	MALE	1953	2010	57	WHITE	NOT HISPANIC OR LATINO	MN	Stage IA	Current smoker	NA	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.MN.A4N5	LUAD	MALE	1948	2011	63	WHITE	NOT HISPANIC OR LATINO	MN	Stage IA	Current reformed smoker for < or = 15 years	2011	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.MP.A4SV	LUAD	MALE	1934	2001	67	NA	NA	MP	Stage IB	Current smoker	NA	1946	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	110	YES
+TCGA.MP.A4SW	LUAD	MALE	1949	2002	53	WHITE	NA	MP	Stage IIB	Current reformed smoker for > 15 years	1982	1967	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.MP.A4SY	LUAD	MALE	1941	2002	61	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIB	Current reformed smoker for < or = 15 years	2002	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.MP.A4T2	LUAD	MALE	1932	2003	71	WHITE	NOT HISPANIC OR LATINO	MP	Stage IA	Current reformed smoker for < or = 15 years	2001	1951	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	75	YES
+TCGA.MP.A4T4	LUAD	FEMALE	1936	2004	68	WHITE	NA	MP	Stage IIB	Current smoker	NA	1954	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.MP.A4T6	LUAD	FEMALE	1929	2005	76	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIIA	Current reformed smoker for > 15 years	1989	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.MP.A4T7	LUAD	FEMALE	1930	2005	75	NA	NA	MP	Stage IV	Current reformed smoker for < or = 15 years	2004	1954	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	50	YES
+TCGA.MP.A4T8	LUAD	MALE	1938	2006	68	NA	NA	MP	Stage IIIA	Current reformed smoker for > 15 years	1972	1957	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.MP.A4T9	LUAD	FEMALE	1952	2006	54	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIIA	Current reformed smoker for < or = 15 years	2004	1980	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	24	YES
+TCGA.MP.A4TA	LUAD	FEMALE	1931	2006	75	WHITE	NOT HISPANIC OR LATINO	MP	Stage IA	Current reformed smoker for < or = 15 years	2006	1951	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	55	YES
+TCGA.MP.A4TC	LUAD	MALE	1931	2008	77	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIIA	Current reformed smoker for > 15 years	1976	1944	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	125	YES
+TCGA.MP.A4TD	LUAD	MALE	1937	2008	71	WHITE	NA	MP	Stage IIIA	Current reformed smoker for > 15 years	1990	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.MP.A4TE	LUAD	MALE	1954	2010	56	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIA	Current reformed smoker for < or = 15 years	2010	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.MP.A4TF	LUAD	FEMALE	1952	2010	58	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIA	Current reformed smoker for < or = 15 years	2010	1970	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.MP.A4TH	LUAD	FEMALE	1942	2012	70	WHITE	NOT HISPANIC OR LATINO	MP	Stage IA	Current reformed smoker for > 15 years	1982	1962	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	20	YES
+TCGA.MP.A4TI	LUAD	MALE	1938	2010	72	WHITE	NOT HISPANIC OR LATINO	MP	Stage IIA	Current reformed smoker for > 15 years	1990	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	35	YES
+TCGA.MP.A4TJ	LUAD	FEMALE	1944	2006	62	NA	NA	MP	Stage IA	Current smoker	NA	NA	Lung Signet Ring Adenocarcinoma	NA	YES
+TCGA.MP.A4TK	LUAD	FEMALE	1946	2002	56	NA	NA	MP	Stage IIB	Current reformed smoker for < or = 15 years	1999	1971	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	28	YES
+TCGA.MP.A5C7	LUAD	FEMALE	1932	2008	76	WHITE	NOT HISPANIC OR LATINO	MP	Stage IB	Current reformed smoker for > 15 years	1968	1953	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	15	YES
+TCGA.NJ.A4YF	LUAD	FEMALE	1957	2007	50	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	NJ	Stage IA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma Mixed Subtype	30	YES
+TCGA.NJ.A4YG	LUAD	MALE	1943	2008	65	WHITE	NA	NJ	Stage IB	Current reformed smoker for < or = 15 years	2007	1955	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	104	YES
+TCGA.NJ.A4YI	LUAD	FEMALE	1922	2009	87	WHITE	NA	NJ	Stage IIIA	Current reformed smoker for > 15 years	1976	1936	Lung Papillary Adenocarcinoma	3	YES
+TCGA.NJ.A4YP	LUAD	MALE	1959	2011	52	WHITE	NOT HISPANIC OR LATINO	NJ	Stage IB	Current Reformed Smoker, Duration Not Specified	NA	NA	Lung Papillary Adenocarcinoma	60	YES
+TCGA.NJ.A4YQ	LUAD	FEMALE	1942	2011	69	WHITE	NOT HISPANIC OR LATINO	NJ	Stage IA	Current reformed smoker for < or = 15 years	2011	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	40	YES
+TCGA.NJ.A55A	LUAD	FEMALE	1933	2009	76	WHITE	NOT HISPANIC OR LATINO	NJ	Stage IB	Current reformed smoker for > 15 years	1983	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	25	YES
+TCGA.NJ.A55O	LUAD	FEMALE	1955	2011	56	WHITE	NOT HISPANIC OR LATINO	NJ	Stage IIA	Current reformed smoker for < or = 15 years	2000	NA	Mucinous (Colloid) Carcinoma	30	YES
+TCGA.NJ.A55R	LUAD	MALE	1944	2011	67	WHITE	NOT HISPANIC OR LATINO	NJ	Stage IA	Current reformed smoker for > 15 years	1986	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	5	YES
+TCGA.NJ.A7XG	LUAD	MALE	1964	2013	49	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	NJ	Stage IIIA	Current reformed smoker for > 15 years	NA	NA	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	NA	YES
+TCGA.O1.A52J	LUAD	FEMALE	1933	2007	74	WHITE	NOT HISPANIC OR LATINO	O1	Stage IA	Current reformed smoker for > 15 years	1980	1950	Lung Adenocarcinoma- Not Otherwise Specified (NOS)	45	YES
+TCGA.S2.AA1A	LUAD	FEMALE	1945	2013	68	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	S2	Stage IA	Current reformed smoker for > 15 years	1995	1957	Lung Bronchioloalveolar Carcinoma Mucinous	95	YES
