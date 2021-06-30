@@ -121,3 +121,55 @@ lusc_diff_genes <- lusc_diff_genes$genes
 # export differentially expressed genes
 write_tsv(luad_diff_genes, "./output/files/03_diff_expression/tcga_luad_degs_smokerVSnonsmoker.txt")
 write_tsv(lusc_diff_genes, "./output/files/03_diff_expression/tcga_lusc_degs_smokerVSnonsmoker.txt")
+
+
+
+
+# -- differential gene expression analysis between smokers and nonsmokers across both lung cancer cohorts
+
+
+# join both cohorts into a single matrix
+lung_counts <- inner_join(luad_counts, lusc_counts, by = "gene")
+
+
+# select covariates
+lung_sel_covars <- luad_metadata %>%
+  bind_rows(lusc_metadata) %>%
+  filter(sample %in% colnames(lung_counts)[-1]) %>%
+  select(sample, cohort = tcga_cohort, gender, age_at_diagnosis, race, ethnicity, tissue_source_site, pathologic_stage, histological_type, smoker) %>%
+  filter(!is.na(smoker) & !is.na(pathologic_stage)) %>%
+  #filter(if_all(.cols = c("smoker", "pathologic_stage"), ~ !is.na(.x))) %>%
+  #filter_at(.vars = c("smoker", "pathologic_stage"), all_vars(!is.na(.))) %>%
+  mutate(age_at_diagnosis = replace_na(age_at_diagnosis, median(age_at_diagnosis, na.rm = T))) %>%
+  mutate(race = replace_na(race, names(sort(table(race), decreasing = T)[1]))) %>%
+  mutate(ethnicity = replace_na(ethnicity, names(sort(table(ethnicity), decreasing = T)[1]))) %>%
+  arrange(sample) %>%
+  column_to_rownames(var = "sample")
+
+
+# set up a count matrix
+lung_mat <- lung_counts %>%
+  select_if(.predicate = colnames(.) %in% c("gene", rownames(lung_sel_covars))) %>%
+  column_to_rownames(var = "gene") %>%
+  as.matrix()
+
+
+# select only the genes with median log2CPM >= 1 across samples
+lung_mat_genes <- filter_genes(cpm(lung_mat, log = T, prior.count = 1), rownames(lung_mat), strategy = "by_median_value", median_cutoff = 1)
+
+lung_mat <- lung_mat[lung_mat_genes, rownames(lung_sel_covars)]
+
+
+# check if the colnames and rownames of the count and covariate matrices are in the same order
+all(colnames(lung_mat) == rownames(lung_sel_covars))
+
+
+# calculate the differentially expressed genes between smokers and nonsmokers adjusted for additional covariates
+lung_design_matrix <- model.matrix(~ cohort + gender + age_at_diagnosis + race + ethnicity + tissue_source_site + pathologic_stage + histological_type + smoker, data = lung_sel_covars)
+
+lung_diff_genes <- limma_diff_expression(lung_design_matrix, lung_mat, gene_annot = gene_annot[, c("gene_id", "gene_name", "gene_type")])
+lung_diff_genes <- lung_diff_genes$genes
+
+
+# export differentially expressed genes
+write_tsv(lung_diff_genes, "./output/files/03_diff_expression/tcga_lung_cancer_degs_smokerVSnonsmoker.txt")
